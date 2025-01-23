@@ -34,6 +34,5 @@ yarn-error.log
 /app/Models/Product.php
 
 # Ignorer les contrôleurs
-/app/Http/Controllers/Controller.php
 /app/Http/Controllers/ProductController.php
 /app/Http/Controllers/UserController.php
